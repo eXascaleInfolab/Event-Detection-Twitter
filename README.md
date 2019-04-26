@@ -5,7 +5,6 @@ This is the repository for data related to our submission to TKDE titled "Event 
 
 Link to the model trained on tweets from 2014: https://drive.google.com/open?id=1akJ8pejV3RA__tOXyxpo9wQe92rYDhYy
 
-https://drive.google.com/open?id=1akJ8pejV3RA__tOXyxpo9wQe92rYDhYy
 # Section 4.4: Semantic Approach: Armatweet
 
 Link to the data: https://drive.google.com/file/d/1HzyBJUowgTt7hJ6A-bcx1v3OrppJCCbi/view?usp=sharing. This folder contains the following information:
