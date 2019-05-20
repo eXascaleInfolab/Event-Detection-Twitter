@@ -25,4 +25,4 @@ Link to the data: https://drive.google.com/file/d/1HzyBJUowgTt7hJ6A-bcx1v3OrppJC
 
 # Test Datset
 
-We also provide the link to our test dataset from first half of 2015. The data has been divided into each month: https://drive.google.com/open?id=1QXd811QaUUinikYXQClzbY-mUUwxKLNz
+We also provide the link to our test dataset from first half of 2015. This dataset consists of tweet identifiers. Using Twitter public API, these tweet IDs can be rehydrated. https://drive.google.com/open?id=1QXd811QaUUinikYXQClzbY-mUUwxKLNz
