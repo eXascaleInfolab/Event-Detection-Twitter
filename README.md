@@ -22,3 +22,7 @@ Link to the data: https://drive.google.com/file/d/1HzyBJUowgTt7hJ6A-bcx1v3OrppJC
 
 - The "scripts" directory contains the RDFox scripts used to analyse
   the data.
+
+# Test Datset
+
+We also provide the link to our test dataset from first half of 2015. The data has been divided into each month: https://drive.google.com/open?id=1QXd811QaUUinikYXQClzbY-mUUwxKLNz
