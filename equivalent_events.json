@@ -1,0 +1,237 @@
+{"AviationAccident": 
+	[
+		{"armatweet": "1987-08-16__Northwest_Airlines"              , "PSQ": "aa-002", "TQE": "aa-002", "W2V_Twitter": "255_NW_airlines"},
+		{"armatweet": "2014-03-08__Malaysia_Airlines"               , "PSQ": "aa-019", "TQE": "aa-019", "W2V_Twitter": "MH370_Malaysia"},
+		{"armatweet": "2014-12-28__AirAsia"                         , "PSQ": "aa-004", "TQE": "aa-004", "W2V_Twitter": "8501_AirAsia_airlines"},
+		{"armatweet": "2014-12-28__Indonesia_AirAsia"               , "PSQ": "aa-004", "TQE": "aa-004", "W2V_Twitter": "8501_AirAsia_airlines"},
+		{"armatweet": "2015-01-10__Cargo_airline"                   , "PSQ": "aa-012", "TQE": "aa-012", "W2V_Twitter": "ethopian_cargo_plane"},
+		{"armatweet": "2015-02-03__Dan-Air"                         , "PSQ": "aa-027", "TQE": "aa-027", "W2V_Twitter": "235_TransAsia"},
+		{"armatweet": "2015-02-03__Compagnie_Africaine_d'Aviation"  , "PSQ": "aa-027", "TQE": "aa-027", "W2V_Twitter": "235_TransAsia"},
+		{"armatweet": "2015-03-04__Turkish_Airlines"                , "PSQ": "aa-035", "TQE": "aa-035", "W2V_Twitter": "skid_TurkishAirlines"},
+		{"armatweet": "2015-03-24__Germanwings"                     , "PSQ": "aa-046", "TQE": "aa-046", "W2V_Twitter": "9525_A320_GermanWings"},
+		{"armatweet": "2015-03-29__Air_Canada"                      , "PSQ": "aa-047", "TQE": "aa-047", "W2V_Twitter": "624_AirCanada_runway"},
+		{                                                             "PSQ": "aa-001", "W2V_Twitter": "PA-34_kentucky"},
+		{                                                             "PSQ": "aa-003", "W2V_Twitter": "400_Alpi pioneer"},
+		{                                                             "PSQ": "aa-008", "W2V_Twitter": "fort_wayne"},
+		{                                                             "PSQ": "aa-007", "W2V_Twitter": "nairobi"},
+		{"armatweet": "2015-05-02__Air_France"                                       , "W2V_Twitter": "447_AirFrance_airlines"},
+		{                                                             "PSQ": "aa-006", "W2V_Twitter": "MH_60S"},
+		{                                                             "PSQ": "aa-005", "W2V_Twitter": "kegworth air disaster"},
+		{                                                             "PSQ": "aa-010", "W2V_Twitter": "Lake Taupo"},
+		{                                                             "PSQ": "aa-024", "W2V_Twitter": "hood_canal"},
+		{                                                             "PSQ": "aa-013", "W2V_Twitter": "Van Nuys_JPL scientist"},
+		{                                                             "PSQ": "aa-024", "W2V_Twitter": "hood_canal"},
+		{                                                             "PSQ": "aa-018", "TQE": "aa-018", "W2V_Twitter": "colorado_selfie_crash"},
+		{                                                             "PSQ": "aa-026", "TQE": "aa-026", "W2V_Twitter": "1959_musicians_death"},
+		{                                                             "PSQ": "aa-029", "W2V_Twitter": "Texas_TVtower_crash"},
+		{                                                             "PSQ": "aa-030", "W2V_Twitter": "Chilean_Andes_crash"},
+		{"armatweet": "1958-??-??__British_Airways"                                  , "W2V_Twitter": "1958_BA_munich"},
+		{                                                             "PSQ": "aa-028", "W2V_Twitter": "MH17_Ukraine_shot"},
+		{                                                             "PSQ": "aa-033", "W2V_Twitter": "skydiver_fiery"},
+		{                                                             "PSQ": "aa-032", "TQE": "aa-032", "W2V_Twitter": "ipad_southdakota"},
+		{                                                             "PSQ": "aa-034", "W2V_Twitter": "UA_1937"},
+		{                                                             "PSQ": "aa-038", "TQE": "aa-038", "W2V_Twitter": "Ford_venice"},
+		{                                                             "PSQ": "aa-039", "W2V_Twitter": "214_Asiana_Airlines"},
+		{                                                             "PSQ": "aa-044", "W2V_Twitter": "NorthMexico_5dead"},
+		{                                                             "PSQ": "aa-049", "TQE": "aa-049", "W2V_Twitter": "IndianNavy_Goa"},
+		{                                                             "PSQ": "aa-052", "W2V_Twitter": "Logan_CacheCounty"},
+		{                                                             "PSQ": "aa-057", "W2V_Twitter": "1927_MGMLIonplane"},
+		{                                                             "PSQ": "aa-056", "W2V_Twitter": "WestGoshenCounty"},
+		{                                                             "PSQ": "aa-059", "W2V_Twitter": "31_03_Walhalla"},
+		{                                                             "PSQ": "aa-061", "W2V_Twitter": "31.03_Pleasanton"},
+		{                                                             "PSQ": "aa-062", "W2V_Twitter": "Trainee_bangladesh"},
+		{                                                             "PSQ": "aa-063", "W2V_Twitter": "sydney_crash"},
+		{                                                             "PSQ": "aa-065", "W2V_Twitter": "NCAA_Illinois"},
+		{                                                             "PSQ": "aa-054", "W2V_Twitter": "2010_Smolensk_president"},
+		{                                                             "PSQ": "aa-068", "W2V_Twitter": "Lauderdale_PA31"},
+		{                                                             "PSQ": "aa-066", "W2V_Twitter": "LakeChamplain"},
+		{                                                             "PSQ": "aa-067", "W2V_Twitter": "Idaho_plane crash"},
+		{                                                             "PSQ": "aa-073", "W2V_Twitter": "MiG27_bengal"},
+		{                                                             "PSQ": "aa-074", "W2V_Twitter": "private_atlanta_highway"},
+		{                                                             "PSQ": "aa-075", "W2V_Twitter": "09.05_Military_Spain"},
+		{                                                             "PSQ": "aa-078", "W2V_Twitter": "06.22_JamesHorner"},
+		{                                                             "PSQ": "aa-084", "W2V_Twitter": "06.25_Military_Arizona"},
+		{                                                             "PSQ": "aa-087", "W2V_Twitter": "06.25_Alaska_sightseeing"},
+		{                                                             "PSQ": "aa-089", "W2V_Twitter": "06.28_house_masachussets"},
+		{                                                             "PSQ": "aa-091", "W2V_Twitter": "06.29_Novato"},
+		{                                                             "PSQ": "aa-092", "W2V_Twitter": "06.30_C-130_Indonesia"},
+		{                                                             "PSQ": "aa-040", "TQE": "aa-040"},		
+		{                                                             "PSQ": "aa-042", "TQE": "aa-042"},		
+		{                                                             "PSQ": "aa-081", "TQE": "aa-081"}		
+	],
+ "PoliticianVisits": 
+	[
+		{"armatweet":"2015-04-09__Barack_Obama__Jamaica", "PSQ": "pv-03"},
+		{
+        "W2V_Twitter": "JohnKerry_Somalia",
+        "armatweet": "nan__John_Kerry__Somalia"
+    	},
+    	{
+        "W2V_Twitter": "NarendraModi_Asia",
+        "armatweet": "nan__Narendra_Modi__Qing_dynasty"
+    	}
+	],
+ "PoliticianDying": 
+	[
+		{"armatweet":"2015-01-21__Leon_Brittan",    "PSQ": "pd-04"},
+
+		{
+        "W2V_Twitter": "King_abdullah",
+        "armatweet": "2015-01-23__Abdullah_of_Saudi_Arabia"
+    	},
+    	{
+        "PSQ": "pd-05",
+        "TQE": "pd-05",
+        "W2V_Twitter": "Nemtsov_Russia",
+        "armatweet": "2015-02-27__Boris_Nemtsov"
+    	},
+    	{
+        "PSQ": "pd-06",
+        "TQE": "pd-06",
+        "W2V_Twitter": "MalcolmFraser_Australia",
+        "armatweet": "2015-03-20__Malcolm_Fraser"
+    	},
+    	{
+        "PSQ": "pd-07",
+        "TQE": "pd-07",
+        "W2V_Twitter": "Lee_Kuan_Yew_Singapore",
+        "armatweet": "2015-03-23__Lee_Kuan_Yew"
+    	}	
+
+	],
+  "CyberAttackCompany":
+	[
+		{"armatweet":"2014-11-24__Sony",    "PSQ": "ca-01", "W2V_Twitter": "Sony_hacked"},
+		{"armatweet":"2010__Gemalto",       "PSQ": "ca-05"},
+		{"armatweet":"nan__Kaspersky_Lab",  "PSQ": "ca-08"},
+        {"W2V_Twitter": "Anthem_hacked", "PSQ": "ca-02"}
+	   
+	],
+  "CapitalPunishment":
+	[
+		{
+        "PSQ": "cp-01",
+        "TQE": "cp-01",
+        "W2V_Twitter": "pakistani_civilian",
+        "armatweet": "1__Pakistan"
+    	},
+		{"armatweet":"1__Somalia",   "PSQ": "cp-03"},
+		{
+        "PSQ": "cp-10",
+        "TQE": "cp-10",
+        "W2V_Twitter": "Jordan_retaliation",
+        "armatweet": "1__Jordan"
+    	},
+		{"armatweet":"2__China",     "PSQ": "cp-14"},
+		    {
+        "PSQ": "cp-25",
+        "TQE": "cp-25",
+        "W2V_Twitter": "Indonesia_FilipinoConvict",
+        "armatweet": "2__Indonesia"
+   		},
+		{"PSQ": "cp-02", "TQE": "cp-02"},
+		{"PSQ": "cp-06", "TQE": "cp-06"},
+		{"PSQ": "cp-20", "TQE": "cp-20"},
+		{
+        "W2V_Twitter": "NigerianConvict_Indonesia",
+        "armatweet": "1__Indonesia"
+    	},
+    	{
+        "W2V_Twitter": "Ohio_executed",
+        "armatweet": "3__United_States"
+   		},
+    	{
+        "W2V_Twitter": "ISIS_Jordan",
+        "armatweet": "nan__Jordan"
+    	},
+    	{
+        "W2V_Twitter": "WalterStorey_missouri",
+        "armatweet": "2__United_States"
+    	},
+    	{
+        "W2V_Twitter": "ShafqatHusain_underage",
+        "armatweet": "2__Pakistan"
+    	},
+    	{
+        "W2V_Twitter": "JodiArias_execution",
+        "armatweet": "4__United_States"
+    	},
+    	{
+        "W2V_Twitter": "Indonesian_SaudiArabia",
+        "armatweet": "2__Saudi_Arabia"
+        //"armatweet": "1__Saudi_Arabia" 
+        // updated after going through Ground truth data
+    	},
+    	{
+        "W2V_Twitter": "NorthKorea_execution",
+        "armatweet": "2__South_Korea"
+    	},
+    	{
+        "W2V_Twitter": "ClaytonLockett",
+        "armatweet": "5__United_States"
+    	}
+	],
+  "MilitiaTerrorAct":
+	[
+		{
+        "PSQ": "mt-02",
+        "TQE": "mt-02",
+        "W2V_Twitter": "BokoHaram_Kidnap",
+        "armatweet": "2__Boko_Haram"
+    	}, 
+		{
+        "PSQ": "mt-15",
+        "TQE": "mt-15",
+        "W2V_Twitter": "BokoHaram_2000death",
+        "armatweet": "6__Boko_Haram"
+    	},
+		{"armatweet":"5__Al-Shabaab_(militant_group)", "PSQ": "mt-41"},
+		{                                              "PSQ": "mt-03", "TQE": "mt-03"},
+		{                                              "PSQ": "mt-03", "TQE": "mt-03"},
+		{                                              "PSQ": "mt-06", "TQE": "mt-06"},
+		{                                              "PSQ": "mt-11", "TQE": "mt-11"},
+		{                                              "PSQ": "mt-19", "TQE": "mt-19"},
+		{                                              "PSQ": "mt-38", "TQE": "mt-38"},
+		 {
+        "PSQ": "mt-11",
+        "TQE": "mt-11",
+        "W2V_Twitter": "Charlie_Hebdo"
+    },
+    {
+        "W2V_Twitter": "centcom_hack",
+        "armatweet": "2__Islamic_State_of_Iraq_and_the_Levant"
+    },
+    {
+        "PSQ": "mt-09",
+        "TQE": "mt-09",
+        "W2V_Twitter": "BokoHaram_Cameroon",
+        "armatweet": "1__Boko_Haram" 
+    },
+    {
+        "PSQ": "mt-28",
+        "armatweet": "2__Naxalite" 
+    },
+    {
+        "PSQ": "mt-41",
+        "armatweet": "5__Al-Shabaab_(militant_group)" 
+    },
+    {
+        "W2V_Twitter": "Egypt_LIbya_airstrike",
+        "armatweet": "2__Libya"
+    },
+    {
+        "PSQ": "mt-34",
+        "TQE": "mt-34",
+        "W2V_Twitter": "blogger_bangladesh"
+    },
+    {
+        "PSQ": "mt-38",
+        "TQE": "mt-38",
+        "W2V_Twitter": "Charleston_shooting"
+    },
+    {
+        "armatweet": "19__Islamic_State_of_Iraq_and_the_Levant",
+        "W2V_Twitter": "Jordan_executes"
+    }
+	]
+}
