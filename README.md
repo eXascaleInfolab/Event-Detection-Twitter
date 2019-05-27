@@ -1,9 +1,13 @@
 # Event-Detection-on-Microposts
 This is the repository for data related to our submission to TKDE titled "Event Detection on Microposts: a Comparison of Four Approaches".
 
-# Section 4.3: The Embedding Approach
+# Query Expansion Approaches (Section 4.1,4.2,4.3)
 
-Link to the model trained on tweets from 2014: https://drive.google.com/open?id=1akJ8pejV3RA__tOXyxpo9wQe92rYDhYy
+- We provide the expanded terms obtained using PSQ, TQE and Embedding approach in the appendix.
+
+- We provide the relevance scores obtained using each method in the uploaded events_(psq|tqe|embed).json files. 
+
+- Link to the model trained on tweets from 2014: https://drive.google.com/open?id=1akJ8pejV3RA__tOXyxpo9wQe92rYDhYy
 
 # Section 4.4: Semantic Approach: Armatweet
 
