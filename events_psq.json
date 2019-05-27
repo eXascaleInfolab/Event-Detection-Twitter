@@ -1,0 +1,2613 @@
+{
+  "AviationAccident": [
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 551525550167437312
+    },
+    {
+      "EVENT DATE": "1987-08-16",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "aa-002",
+      "is_airline": true,
+      "tid": 551470302774198272
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "aa-003",
+      "is_airline": false,
+      "tid": 551488178880671744
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 551382604055060480
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 551743230312603648
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "aa-003",
+      "is_airline": false,
+      "tid": 551623285813698560
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 551656747975581697
+    },
+    {
+      "EVENT DATE": "1989-01-08",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 2,
+      "id": "aa-005",
+      "is_airline": true,
+      "tid": 551809907180068864
+    },
+    {
+      "EVENT DATE": "2014-12-22",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 2,
+      "id": "aa-006",
+      "is_airline": false,
+      "tid": 551710409921531905
+    },
+    {
+      "EVENT DATE": "2015-01-04",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "aa-007",
+      "is_airline": false,
+      "tid": 551821231821824000
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-05",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 551915159036235778
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-05",
+      "SCORE": 3,
+      "id": "aa-003",
+      "is_airline": false,
+      "tid": 551987955401633792
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-05",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 551993609310830593
+    },
+    {
+      "EVENT DATE": "2015-01-04",
+      "PEAK DATE": "2015-01-05",
+      "SCORE": 3,
+      "id": "aa-008",
+      "is_airline": false,
+      "tid": 551908712416575489
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-06",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 552514722231095296
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-06",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 552376050148450304
+    },
+    {
+      "EVENT DATE": "2015-01-05",
+      "PEAK DATE": "2015-01-06",
+      "SCORE": 1,
+      "id": "aa-009",
+      "is_airline": false,
+      "tid": 552542299780284417
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-06",
+      "SCORE": 3,
+      "id": "aa-010",
+      "is_airline": false,
+      "tid": 552613967839780864
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 1,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 552858969706725376
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 552720914220351488
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "aa-010",
+      "is_airline": false,
+      "tid": 552885658063085568
+    },
+    {
+      "EVENT DATE": "2015-01-05",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "aa-011",
+      "is_airline": false,
+      "tid": 552965672804700161
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 553717325644693504
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 553847713955983362
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "aa-012",
+      "is_airline": true,
+      "tid": 554050479194271745
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "aa-013",
+      "is_airline": false,
+      "tid": 553803157898137600
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 554108188627193856
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 554280272532111360
+    },
+    {
+      "EVENT DATE": "2015-01-04",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-007",
+      "is_airline": false,
+      "tid": 554198601073582080
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-012",
+      "is_airline": true,
+      "tid": 554189289718697985
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-013",
+      "is_airline": false,
+      "tid": 554079122129829889
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-014",
+      "is_airline": false,
+      "tid": 554111363744673792
+    },
+    {
+      "EVENT DATE": "2015-01-11",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-015",
+      "is_airline": false,
+      "tid": 554413282316922880
+    },
+    {
+      "EVENT DATE": "1941-02-20",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "aa-016",
+      "is_airline": false,
+      "tid": 554304888931647488
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 1,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 555474894226751488
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 555387359076700162
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 1,
+      "id": "aa-010",
+      "is_airline": false,
+      "tid": 555432678556585984
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 3,
+      "id": "aa-012",
+      "is_airline": true,
+      "tid": 555489305855275008
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 3,
+      "id": "aa-013",
+      "is_airline": false,
+      "tid": 555380094563536897
+    },
+    {
+      "EVENT DATE": "2015-01-13",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 3,
+      "id": "aa-017",
+      "is_airline": false,
+      "tid": 555221273035300864
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 1,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 558070795113857027
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 558126889706217472
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 1,
+      "id": "aa-010",
+      "is_airline": false,
+      "tid": 558074494460641280
+    },
+    {
+      "EVENT DATE": "2015-01-22",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 3,
+      "id": "aa-020",
+      "is_airline": false,
+      "tid": 558305122452008960
+    },
+    {
+      "EVENT DATE": "1994-06-24",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 3,
+      "id": "aa-021",
+      "is_airline": false,
+      "tid": 558268120339464192
+    },
+    {
+      "EVENT DATE": "2015-01-18",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 3,
+      "id": "aa-022",
+      "is_airline": false,
+      "tid": 558087664600379392
+    },
+    {
+      "EVENT DATE": "2014-09-14",
+      "PEAK DATE": "2015-01-22",
+      "SCORE": 3,
+      "id": "aa-023",
+      "is_airline": false,
+      "tid": 558062150628147200
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-01-29",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 560736006832267268
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-29",
+      "SCORE": 1,
+      "id": "aa-010",
+      "is_airline": false,
+      "tid": 560606130225684480
+    },
+    {
+      "EVENT DATE": "2014-03-08",
+      "PEAK DATE": "2015-01-29",
+      "SCORE": 3,
+      "id": "aa-019",
+      "is_airline": true,
+      "tid": 560755011248877568
+    },
+    {
+      "EVENT DATE": "2015-01-26",
+      "PEAK DATE": "2015-01-29",
+      "SCORE": 3,
+      "id": "aa-024",
+      "is_airline": false,
+      "tid": 560829007160016897
+    },
+    {
+      "EVENT DATE": "2015-01-29",
+      "PEAK DATE": "2015-01-29",
+      "SCORE": 3,
+      "id": "aa-025",
+      "is_airline": false,
+      "tid": 560729098838749184
+    },
+    {
+      "EVENT DATE": "2014-05-31",
+      "PEAK DATE": "2015-02-03",
+      "SCORE": 3,
+      "id": "aa-018",
+      "is_airline": false,
+      "tid": 562672902873821186
+    },
+    {
+      "EVENT DATE": "1959-02-03",
+      "PEAK DATE": "2015-02-03",
+      "SCORE": 3,
+      "id": "aa-026",
+      "is_airline": false,
+      "tid": 562641533690589184
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-04",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 563004848501981184
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-05",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 563344624865927170
+    },
+    {
+      "EVENT DATE": "2015-02-05",
+      "PEAK DATE": "2015-02-05",
+      "SCORE": 3,
+      "id": "aa-029",
+      "is_airline": false,
+      "tid": 563274068280225792
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-06",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 563742509117882369
+    },
+    {
+      "EVENT DATE": "1961-??-??",
+      "PEAK DATE": "2015-02-06",
+      "SCORE": 3,
+      "id": "aa-030",
+      "is_airline": true,
+      "tid": 563754634875916288
+    },
+    {
+      "EVENT DATE": "2014-12-28",
+      "PEAK DATE": "2015-02-07",
+      "SCORE": 3,
+      "id": "aa-004",
+      "is_airline": true,
+      "tid": 564054775038103553
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-07",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 564034789208899584
+    },
+    {
+      "EVENT DATE": "2014-07-17",
+      "PEAK DATE": "2015-02-07",
+      "SCORE": 3,
+      "id": "aa-028",
+      "is_airline": true,
+      "tid": 564110622221029377
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 564396745044393985
+    },
+    {
+      "EVENT DATE": "2014-07-17",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-028",
+      "is_airline": true,
+      "tid": 564276771193778176
+    },
+    {
+      "EVENT DATE": "1961-??-??",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-030",
+      "is_airline": true,
+      "tid": 564560209642024960
+    },
+    {
+      "EVENT DATE": "2015-02-08",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-031",
+      "is_airline": false,
+      "tid": 564510070965170176
+    },
+    {
+      "EVENT DATE": "2015-02-07",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-032",
+      "is_airline": false,
+      "tid": 564500658918027264
+    },
+    {
+      "EVENT DATE": "2013-11-05",
+      "PEAK DATE": "2015-02-08",
+      "SCORE": 3,
+      "id": "aa-033",
+      "is_airline": false,
+      "tid": 564491901240242176
+    },
+    {
+      "EVENT DATE": "2014-05-31",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "aa-018",
+      "is_airline": false,
+      "tid": 564584255615807490
+    },
+    {
+      "EVENT DATE": "2015-02-03",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "aa-027",
+      "is_airline": true,
+      "tid": 564680556814667777
+    },
+    {
+      "EVENT DATE": "1961-??-??",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "aa-030",
+      "is_airline": true,
+      "tid": 564686147817713664
+    },
+    {
+      "EVENT DATE": "2015-02-08",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "aa-031",
+      "is_airline": false,
+      "tid": 564607441703559168
+    },
+    {
+      "EVENT DATE": "2015-02-07",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 1,
+      "id": "aa-032",
+      "is_airline": false,
+      "tid": 564701129901359104
+    },
+    {
+      "EVENT DATE": "1937-02-09",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "aa-034",
+      "is_airline": true,
+      "tid": 564685510304493568
+    },
+    {
+      "EVENT DATE": "1959-02-03",
+      "PEAK DATE": "2015-03-04",
+      "SCORE": 3,
+      "id": "aa-026",
+      "is_airline": false,
+      "tid": 572981248034938880
+    },
+    {
+      "EVENT DATE": "2015-03-04",
+      "PEAK DATE": "2015-03-04",
+      "SCORE": 3,
+      "id": "aa-035",
+      "is_airline": true,
+      "tid": 573101142202163200
+    },
+    {
+      "EVENT DATE": "2009-??-??",
+      "PEAK DATE": "2015-03-04",
+      "SCORE": 1,
+      "id": "aa-036",
+      "is_airline": true,
+      "tid": 573175469454979073
+    },
+    {
+      "EVENT DATE": "2015-03-04",
+      "PEAK DATE": "2015-03-04",
+      "SCORE": 3,
+      "id": "aa-037",
+      "is_airline": false,
+      "tid": 573145337575149568
+    },
+    {
+      "EVENT DATE": "2013-??-??",
+      "PEAK DATE": "2015-03-04",
+      "SCORE": 3,
+      "id": "aa-039",
+      "is_airline": true,
+      "tid": 573144620349054976
+    },
+    {
+      "EVENT DATE": "1959-02-03",
+      "PEAK DATE": "2015-03-05",
+      "SCORE": 2,
+      "id": "aa-026",
+      "is_airline": false,
+      "tid": 573373646137245696
+    },
+    {
+      "EVENT DATE": "2015-03-04",
+      "PEAK DATE": "2015-03-05",
+      "SCORE": 3,
+      "id": "aa-035",
+      "is_airline": true,
+      "tid": 573520761345871872
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-05",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 573624863983730688
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-05",
+      "SCORE": 3,
+      "id": "aa-040",
+      "is_airline": true,
+      "tid": 573526255871512576
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-06",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 573642207397212160
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-06",
+      "SCORE": 3,
+      "id": "aa-041",
+      "is_airline": false,
+      "tid": 573833903888183297
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-07",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 574268534441775104
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-07",
+      "SCORE": 3,
+      "id": "aa-040",
+      "is_airline": true,
+      "tid": 574123340216037377
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-07",
+      "SCORE": 3,
+      "id": "aa-041",
+      "is_airline": false,
+      "tid": 574211290601689089
+    },
+    {
+      "EVENT DATE": "1959-02-03",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 2,
+      "id": "aa-026",
+      "is_airline": false,
+      "tid": 574563733768396800
+    },
+    {
+      "EVENT DATE": "1961-??-??",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 1,
+      "id": "aa-030",
+      "is_airline": true,
+      "tid": 574515641878716416
+    },
+    {
+      "EVENT DATE": "2015-03-04",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 1,
+      "id": "aa-037",
+      "is_airline": false,
+      "tid": 574668129961426946
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 574484029375913985
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 3,
+      "id": "aa-040",
+      "is_airline": true,
+      "tid": 574475468830863360
+    },
+    {
+      "EVENT DATE": "2015-03-07",
+      "PEAK DATE": "2015-03-08",
+      "SCORE": 3,
+      "id": "aa-042",
+      "is_airline": false,
+      "tid": 574643559757922304
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-15",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 577139216766795776
+    },
+    {
+      "EVENT DATE": "2015-03-15",
+      "PEAK DATE": "2015-03-15",
+      "SCORE": 3,
+      "id": "aa-043",
+      "is_airline": false,
+      "tid": 577057297802768384
+    },
+    {
+      "EVENT DATE": "2015-03-15",
+      "PEAK DATE": "2015-03-15",
+      "SCORE": 3,
+      "id": "aa-044",
+      "is_airline": false,
+      "tid": 576973449467400192
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-16",
+      "SCORE": 3,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 577551244232818688
+    },
+    {
+      "EVENT DATE": "1961-??-??",
+      "PEAK DATE": "2015-03-16",
+      "SCORE": 3,
+      "id": "aa-045",
+      "is_airline": false,
+      "tid": 577531161884364801
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-24",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 580464758765297664
+    },
+    {
+      "EVENT DATE": "2015-03-23",
+      "PEAK DATE": "2015-03-24",
+      "SCORE": 3,
+      "id": "aa-048",
+      "is_airline": false,
+      "tid": 580158385837887489
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-25",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 580774231287291904
+    },
+    {
+      "EVENT DATE": "2015-03-25",
+      "PEAK DATE": "2015-03-25",
+      "SCORE": 3,
+      "id": "aa-049",
+      "is_airline": false,
+      "tid": 580558350468931584
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-26",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 580972970023092224
+    },
+    {
+      "EVENT DATE": "2015-03-25",
+      "PEAK DATE": "2015-03-26",
+      "SCORE": 2,
+      "id": "aa-049",
+      "is_airline": false,
+      "tid": 581002728576454656
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-27",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 581305704121806848
+    },
+    {
+      "EVENT DATE": "2015-03-25",
+      "PEAK DATE": "2015-03-27",
+      "SCORE": 3,
+      "id": "aa-049",
+      "is_airline": false,
+      "tid": 581351820502507520
+    },
+    {
+      "EVENT DATE": "2015-03-26",
+      "PEAK DATE": "2015-03-27",
+      "SCORE": 3,
+      "id": "aa-050",
+      "is_airline": false,
+      "tid": 581487900518453248
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-28",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 581657027430215681
+    },
+    {
+      "EVENT DATE": "2004-10-24",
+      "PEAK DATE": "2015-03-28",
+      "SCORE": 3,
+      "id": "aa-051",
+      "is_airline": false,
+      "tid": 581930600925384704
+    },
+    {
+      "EVENT DATE": "2015-03-28",
+      "PEAK DATE": "2015-03-28",
+      "SCORE": 1,
+      "id": "aa-052",
+      "is_airline": false,
+      "tid": 581902411003875328
+    },
+    {
+      "EVENT DATE": "2015-03-26",
+      "PEAK DATE": "2015-03-28",
+      "SCORE": 3,
+      "id": "aa-053",
+      "is_airline": false,
+      "tid": 581697569585274880
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 582185753024712704
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 581972627822120960
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 3,
+      "id": "aa-047",
+      "is_airline": true,
+      "tid": 582077816793145344
+    },
+    {
+      "EVENT DATE": "2010-??-??",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 3,
+      "id": "aa-054",
+      "is_airline": true,
+      "tid": 582007528659124224
+    },
+    {
+      "EVENT DATE": "2015-03-27",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 3,
+      "id": "aa-055",
+      "is_airline": false,
+      "tid": 582234675386646528
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 582641904547840000
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 582377659176394754
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 3,
+      "id": "aa-047",
+      "is_airline": true,
+      "tid": 582350035519598592
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 3,
+      "id": "aa-056",
+      "is_airline": false,
+      "tid": 582378850354515968
+    },
+    {
+      "EVENT DATE": "1927-??-??",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 3,
+      "id": "aa-057",
+      "is_airline": false,
+      "tid": 582499516311478272
+    },
+    {
+      "EVENT DATE": "2015-03-27",
+      "PEAK DATE": "2015-03-30",
+      "SCORE": 3,
+      "id": "aa-058",
+      "is_airline": false,
+      "tid": 582511415551860736
+    },
+    {
+      "EVENT DATE": "2015-01-04",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 1,
+      "id": "aa-007",
+      "is_airline": false,
+      "tid": 582964853347913729
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 582863766431395841
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 582959455291248640
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 3,
+      "id": "aa-047",
+      "is_airline": true,
+      "tid": 582848331384131584
+    },
+    {
+      "EVENT DATE": "2015-03-31",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 3,
+      "id": "aa-059",
+      "is_airline": false,
+      "tid": 582989448771555328
+    },
+    {
+      "EVENT DATE": "2015-03-28",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 3,
+      "id": "aa-060",
+      "is_airline": false,
+      "tid": 582713421608529921
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-01",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 583355699599527936
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-04-01",
+      "SCORE": 3,
+      "id": "aa-056",
+      "is_airline": false,
+      "tid": 583359222810877952
+    },
+    {
+      "EVENT DATE": "2015-03-31",
+      "PEAK DATE": "2015-04-01",
+      "SCORE": 3,
+      "id": "aa-061",
+      "is_airline": false,
+      "tid": 583221796427583488
+    },
+    {
+      "EVENT DATE": "2015-04-01",
+      "PEAK DATE": "2015-04-01",
+      "SCORE": 3,
+      "id": "aa-062",
+      "is_airline": false,
+      "tid": 583209209312882689
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-04-02",
+      "SCORE": 1,
+      "id": "aa-001",
+      "is_airline": false,
+      "tid": 583668468848861185
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-04-02",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 583708390230253569
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-02",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 583657194534502400
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-04-02",
+      "SCORE": 3,
+      "id": "aa-047",
+      "is_airline": true,
+      "tid": 583774005901025280
+    },
+    {
+      "EVENT DATE": "2015-04-02",
+      "PEAK DATE": "2015-04-02",
+      "SCORE": 3,
+      "id": "aa-063",
+      "is_airline": false,
+      "tid": 583618757924237312
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-04-03",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 583892528568655872
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-03",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 583954268710801408
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-04-03",
+      "SCORE": 3,
+      "id": "aa-047",
+      "is_airline": true,
+      "tid": 584016784790982657
+    },
+    {
+      "EVENT DATE": "2015-03-05",
+      "PEAK DATE": "2015-04-07",
+      "SCORE": 2,
+      "id": "aa-038",
+      "is_airline": false,
+      "tid": 585267530459181056
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-07",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 585243245413662720
+    },
+    {
+      "EVENT DATE": "2010-??-??",
+      "PEAK DATE": "2015-04-07",
+      "SCORE": 2,
+      "id": "aa-054",
+      "is_airline": true,
+      "tid": 585511689266843651
+    },
+    {
+      "EVENT DATE": "2015-04-07",
+      "PEAK DATE": "2015-04-07",
+      "SCORE": 3,
+      "id": "aa-064",
+      "is_airline": false,
+      "tid": 585430613383061504
+    },
+    {
+      "EVENT DATE": "2015-04-07",
+      "PEAK DATE": "2015-04-07",
+      "SCORE": 3,
+      "id": "aa-065",
+      "is_airline": false,
+      "tid": 585506781931118593
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-08",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 585932709333245953
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-04-08",
+      "SCORE": 3,
+      "id": "aa-056",
+      "is_airline": false,
+      "tid": 585808222394519552
+    },
+    {
+      "EVENT DATE": "2015-04-07",
+      "PEAK DATE": "2015-04-08",
+      "SCORE": 3,
+      "id": "aa-064",
+      "is_airline": false,
+      "tid": 585699338262831106
+    },
+    {
+      "EVENT DATE": "2015-04-07",
+      "PEAK DATE": "2015-04-08",
+      "SCORE": 3,
+      "id": "aa-065",
+      "is_airline": false,
+      "tid": 585697333347745793
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 587234482857455618
+    },
+    {
+      "EVENT DATE": "2015-04-11",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-066",
+      "is_airline": false,
+      "tid": 587287905732796416
+    },
+    {
+      "EVENT DATE": "2015-04-12",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-067",
+      "is_airline": false,
+      "tid": 587110335678517249
+    },
+    {
+      "EVENT DATE": "2015-04-12",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-068",
+      "is_airline": false,
+      "tid": 587392268392247296
+    },
+    {
+      "EVENT DATE": "2015-04-11",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-069",
+      "is_airline": false,
+      "tid": 587062612854050816
+    },
+    {
+      "EVENT DATE": "2015-04-12",
+      "PEAK DATE": "2015-04-12",
+      "SCORE": 3,
+      "id": "aa-070",
+      "is_airline": false,
+      "tid": 587237959948247040
+    },
+    {
+      "EVENT DATE": "2015-04-12",
+      "PEAK DATE": "2015-04-13",
+      "SCORE": 3,
+      "id": "aa-067",
+      "is_airline": false,
+      "tid": 587461512144392194
+    },
+    {
+      "EVENT DATE": "2015-04-12",
+      "PEAK DATE": "2015-04-13",
+      "SCORE": 3,
+      "id": "aa-071",
+      "is_airline": false,
+      "tid": 587525429151444992
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-04-17",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 589029087118643202
+    },
+    {
+      "EVENT DATE": "2015-04-23",
+      "PEAK DATE": "2015-04-24",
+      "SCORE": 3,
+      "id": "aa-072",
+      "is_airline": false,
+      "tid": 591491017750118400
+    },
+    {
+      "EVENT DATE": "2015-05-08",
+      "PEAK DATE": "2015-05-08",
+      "SCORE": 3,
+      "id": "aa-073",
+      "is_airline": false,
+      "tid": 596728541623881728
+    },
+    {
+      "EVENT DATE": "2015-05-08",
+      "PEAK DATE": "2015-05-08",
+      "SCORE": 3,
+      "id": "aa-074",
+      "is_airline": false,
+      "tid": 596712674576195584
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 597091705440104449
+    },
+    {
+      "EVENT DATE": "2015-05-08",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-073",
+      "is_airline": false,
+      "tid": 596904790484856833
+    },
+    {
+      "EVENT DATE": "2015-05-08",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-074",
+      "is_airline": false,
+      "tid": 596866345502838784
+    },
+    {
+      "EVENT DATE": "2015-05-09",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-075",
+      "is_airline": false,
+      "tid": 597052903929434117
+    },
+    {
+      "EVENT DATE": "2015-05-09",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-076",
+      "is_airline": false,
+      "tid": 597122671999057920
+    },
+    {
+      "EVENT DATE": "2015-05-09",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "aa-077",
+      "is_airline": false,
+      "tid": 596876244052004865
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-23",
+      "SCORE": 3,
+      "id": "aa-078",
+      "is_airline": false,
+      "tid": 613414456039706624
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-078",
+      "is_airline": false,
+      "tid": 613539488216821760
+    },
+    {
+      "EVENT DATE": "1952-??-??",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-079",
+      "is_airline": false,
+      "tid": 613641720182534144
+    },
+    {
+      "EVENT DATE": "2015-06-24",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-080",
+      "is_airline": false,
+      "tid": 613719260305747969
+    },
+    {
+      "EVENT DATE": "2015-06-18",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-081",
+      "is_airline": false,
+      "tid": 613783764494323712
+    },
+    {
+      "EVENT DATE": "2015-06-24",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-082",
+      "is_airline": false,
+      "tid": 613800038368567297
+    },
+    {
+      "EVENT DATE": "2012-06-03",
+      "PEAK DATE": "2015-06-24",
+      "SCORE": 3,
+      "id": "aa-083",
+      "is_airline": true,
+      "tid": 613570647718035456
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-06-25",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 613873220618338305
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-25",
+      "SCORE": 3,
+      "id": "aa-078",
+      "is_airline": false,
+      "tid": 613953688336486400
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-25",
+      "SCORE": 3,
+      "id": "aa-084",
+      "is_airline": false,
+      "tid": 614055282742669313
+    },
+    {
+      "EVENT DATE": "2015-06-20",
+      "PEAK DATE": "2015-06-25",
+      "SCORE": 3,
+      "id": "aa-085",
+      "is_airline": false,
+      "tid": 613937137616969728
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-25",
+      "SCORE": 1,
+      "id": "aa-086",
+      "is_airline": false,
+      "tid": 614115546502557696
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-26",
+      "SCORE": 3,
+      "id": "aa-084",
+      "is_airline": false,
+      "tid": 614333998441959424
+    },
+    {
+      "EVENT DATE": "2015-06-20",
+      "PEAK DATE": "2015-06-26",
+      "SCORE": 2,
+      "id": "aa-085",
+      "is_airline": false,
+      "tid": 614262661715398657
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-26",
+      "SCORE": 3,
+      "id": "aa-087",
+      "is_airline": false,
+      "tid": 614305661719961600
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 614732834817773569
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-078",
+      "is_airline": false,
+      "tid": 614588462696689664
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-084",
+      "is_airline": false,
+      "tid": 614695761381449728
+    },
+    {
+      "EVENT DATE": "2015-06-20",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-085",
+      "is_airline": false,
+      "tid": 614715667531603968
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-087",
+      "is_airline": false,
+      "tid": 614816888682586112
+    },
+    {
+      "EVENT DATE": "2015-06-26",
+      "PEAK DATE": "2015-06-27",
+      "SCORE": 3,
+      "id": "aa-088",
+      "is_airline": false,
+      "tid": 614623254414794756
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 614960388388433920
+    },
+    {
+      "EVENT DATE": "2015-06-22",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 3,
+      "id": "aa-078",
+      "is_airline": false,
+      "tid": 615097546323529728
+    },
+    {
+      "EVENT DATE": "2015-06-20",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 1,
+      "id": "aa-085",
+      "is_airline": false,
+      "tid": 615078198020157440
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 3,
+      "id": "aa-087",
+      "is_airline": false,
+      "tid": 614955200038748160
+    },
+    {
+      "EVENT DATE": "2015-06-28",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 3,
+      "id": "aa-089",
+      "is_airline": false,
+      "tid": 615284931049041920
+    },
+    {
+      "EVENT DATE": "2015-06-28",
+      "PEAK DATE": "2015-06-28",
+      "SCORE": 3,
+      "id": "aa-090",
+      "is_airline": false,
+      "tid": 615293747471843328
+    },
+    {
+      "EVENT DATE": "2013-??-??",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 3,
+      "id": "aa-039",
+      "is_airline": true,
+      "tid": 615377209952370688
+    },
+    {
+      "EVENT DATE": "2015-03-24",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 3,
+      "id": "aa-046",
+      "is_airline": true,
+      "tid": 615347971459145728
+    },
+    {
+      "EVENT DATE": "2015-06-20",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 0,
+      "id": "aa-085",
+      "is_airline": false,
+      "tid": 615618357262446592
+    },
+    {
+      "EVENT DATE": "2015-06-25",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 3,
+      "id": "aa-087",
+      "is_airline": false,
+      "tid": 615326001682251776
+    },
+    {
+      "EVENT DATE": "2015-06-28",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 3,
+      "id": "aa-089",
+      "is_airline": false,
+      "tid": 615329583605268480
+    },
+    {
+      "EVENT DATE": "2015-06-29",
+      "PEAK DATE": "2015-06-29",
+      "SCORE": 3,
+      "id": "aa-091",
+      "is_airline": false,
+      "tid": 615569271318519809
+    },
+    {
+      "EVENT DATE": "2015-06-28",
+      "PEAK DATE": "2015-06-30",
+      "SCORE": 3,
+      "id": "aa-089",
+      "is_airline": false,
+      "tid": 615691040364740609
+    },
+    {
+      "EVENT DATE": "2015-06-30",
+      "PEAK DATE": "2015-06-30",
+      "SCORE": 3,
+      "id": "aa-092",
+      "is_airline": false,
+      "tid": 615846871341273089
+    }
+  ],
+  "PoliticianDying": [
+    {
+      "EVENT DATE": "2013-01-13",
+      "PEAK DATE": "2015-01-13",
+      "SCORE": 3,
+      "id": "pd-01",
+      "tid": 554939088646979584
+    },
+    {
+      "EVENT DATE": "1945-??-??",
+      "PEAK DATE": "2015-01-13",
+      "SCORE": 3,
+      "id": "pd-02",
+      "tid": 554973058319273986
+    },
+    {
+      "EVENT DATE": "2013-01-13",
+      "PEAK DATE": "2015-01-14",
+      "SCORE": 2,
+      "id": "pd-01",
+      "tid": 555306992017747968
+    },
+    {
+      "EVENT DATE": "1425-01-08",
+      "PEAK DATE": "2015-01-18",
+      "SCORE": 3,
+      "id": "pd-03",
+      "tid": 556920725341089792
+    },
+    {
+      "EVENT DATE": "2015-01-21",
+      "PEAK DATE": "2015-01-28",
+      "SCORE": 3,
+      "id": "pd-04",
+      "tid": 560258774762409984
+    },
+    {
+      "EVENT DATE": "2015-02-17",
+      "PEAK DATE": "2015-02-28",
+      "SCORE": 3,
+      "id": "pd-05",
+      "tid": 571472904992399362
+    },
+    {
+      "EVENT DATE": "2015-03-19",
+      "PEAK DATE": "2015-03-19",
+      "SCORE": 3,
+      "id": "pd-06",
+      "tid": 578696830269042688
+    },
+    {
+      "EVENT DATE": "2015-03-23",
+      "PEAK DATE": "2015-03-24",
+      "SCORE": 3,
+      "id": "pd-07",
+      "tid": 580269337757384705
+    },
+    {
+      "EVENT DATE": "2015-03-19",
+      "PEAK DATE": "2015-03-27",
+      "SCORE": 3,
+      "id": "pd-06",
+      "tid": 581275995899965440
+    },
+    {
+      "EVENT DATE": "2015-03-27",
+      "PEAK DATE": "2015-03-31",
+      "SCORE": 3,
+      "id": "pd-11",
+      "tid": 582834834130636801
+    },
+    {
+      "EVENT DATE": "1997-04-06",
+      "PEAK DATE": "2015-04-06",
+      "SCORE": 3,
+      "id": "pd-13",
+      "tid": 585064299652972544
+    },
+    {
+      "EVENT DATE": "2015-04-07",
+      "PEAK DATE": "2015-04-08",
+      "SCORE": 3,
+      "id": "pd-14",
+      "tid": 585680392587501569
+    },
+    {
+      "EVENT DATE": "2015-04-19",
+      "PEAK DATE": "2015-04-20",
+      "SCORE": 3,
+      "id": "pd-15",
+      "tid": 590142033106341889
+    },
+    {
+      "EVENT DATE": "2015-05-07",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 2,
+      "id": "pd-12",
+      "tid": 597087112660459520
+    },
+    {
+      "EVENT DATE": "2015-05-07",
+      "PEAK DATE": "2015-05-10",
+      "SCORE": 2,
+      "id": "pd-12",
+      "tid": 597394546788536320
+    },
+    {
+      "EVENT DATE": "2015-05-07",
+      "PEAK DATE": "2015-05-12",
+      "SCORE": 2,
+      "id": "pd-12",
+      "tid": 598072933517393920
+    },
+    {
+      "EVENT DATE": "2015-05-21",
+      "PEAK DATE": "2015-05-22",
+      "SCORE": 2,
+      "id": "pd-16",
+      "tid": 601801619446091778
+    },
+    {
+      "EVENT DATE": "2015-05-26",
+      "PEAK DATE": "2015-05-26",
+      "SCORE": 3,
+      "id": "pd-17",
+      "tid": 603143545042632704
+    },
+    {
+      "EVENT DATE": "2015-06-01",
+      "PEAK DATE": "2015-06-02",
+      "SCORE": 3,
+      "id": "pd-08",
+      "tid": 605622093489819648
+    },
+    {
+      "EVENT DATE": "2015-06-05",
+      "PEAK DATE": "2015-06-05",
+      "SCORE": 3,
+      "id": "pd-09",
+      "tid": 606855923521482752
+    },
+    {
+      "EVENT DATE": "2015-06-12",
+      "PEAK DATE": "2015-06-12",
+      "SCORE": 2,
+      "id": "pd-10",
+      "tid": 609346715158642688
+    }
+  ],
+  "PoliticianVisits": [
+    {
+      "EVENT DATE": "2014-??-??",
+      "PEAK DATE": "2015-01-31",
+      "SCORE": 2,
+      "id": "pv-01",
+      "tid": 561461462053699585
+    },
+    {
+      "EVENT DATE": "2015-??-??",
+      "PEAK DATE": "2015-02-10",
+      "SCORE": 3,
+      "id": "pv-02",
+      "tid": 565256317317967875
+    },
+    {
+      "EVENT DATE": "2015-04-09",
+      "PEAK DATE": "2015-04-09",
+      "SCORE": 3,
+      "id": "pv-03",
+      "tid": 586245277226532864
+    }
+  ],
+  "CyberAttackCompany": [
+    {
+      "EVENT DATE": "2014-11-??",
+      "PEAK DATE": "2015-02-04",
+      "SCORE": 3,
+      "id": "ca-01",
+      "tid": 562922346550665216
+    },
+    {
+      "EVENT DATE": "2014-11-??",
+      "PEAK DATE": "2015-02-05",
+      "SCORE": 3,
+      "id": "ca-01",
+      "tid": 563225234019328003
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-05",
+      "SCORE": 3,
+      "id": "ca-02",
+      "tid": 563166710875058176
+    },
+    {
+      "EVENT DATE": "2014-11-??",
+      "PEAK DATE": "2015-02-06",
+      "SCORE": 3,
+      "id": "ca-01",
+      "tid": 563660363695017984
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-06",
+      "SCORE": 3,
+      "id": "ca-02",
+      "tid": 563843243733811200
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-16",
+      "SCORE": 3,
+      "id": "ca-03",
+      "tid": 567358645088710656
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-20",
+      "SCORE": 3,
+      "id": "ca-04",
+      "tid": 568708959344857089
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-20",
+      "SCORE": 3,
+      "id": "ca-05",
+      "tid": 568778349893578752
+    },
+    {
+      "EVENT DATE": "2015-03-??",
+      "PEAK DATE": "2015-04-19",
+      "SCORE": 2,
+      "id": "ca-06",
+      "tid": 589627870185558018
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-05-21",
+      "SCORE": 2,
+      "id": "ca-02",
+      "tid": 601195232131215360
+    },
+    {
+      "EVENT DATE": "2015-05-??",
+      "PEAK DATE": "2015-05-21",
+      "SCORE": 3,
+      "id": "ca-07",
+      "tid": 601423012173369344
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-10",
+      "SCORE": 3,
+      "id": "ca-08",
+      "tid": 608673281894285313
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-10",
+      "SCORE": 2,
+      "id": "ca-09",
+      "tid": 608781973083914240
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-15",
+      "SCORE": 3,
+      "id": "ca-08",
+      "tid": 610361879333048320
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-15",
+      "SCORE": 2,
+      "id": "ca-10",
+      "tid": 610593249699471360
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-15",
+      "SCORE": 3,
+      "id": "ca-11",
+      "tid": 610530599380647937
+    },
+    {
+      "EVENT DATE": "2015-06-??",
+      "PEAK DATE": "2015-06-16",
+      "SCORE": 3,
+      "id": "ca-10",
+      "tid": 610759558043205632
+    }
+  ],
+  "CapitalPunishment": [
+    {
+      "EVENT DATE": "2015-01-??",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "cp-01",
+      "tid": 552639515362213888
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 1,
+      "id": "cp-02",
+      "tid": 552924782564757504
+    },
+    {
+      "EVENT DATE": "2015-01-??",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 1,
+      "id": "cp-03",
+      "tid": 552730082947526656
+    },
+    {
+      "EVENT DATE": "2015-01-??",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 1,
+      "id": "cp-03",
+      "tid": 553198569948479489
+    },
+    {
+      "EVENT DATE": "2014-12-16",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 1,
+      "id": "cp-04",
+      "tid": 553017942225350656
+    },
+    {
+      "EVENT DATE": "2015-02-08",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 1,
+      "id": "cp-05",
+      "tid": 553332166890119168
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-09",
+      "SCORE": 1,
+      "id": "cp-06",
+      "tid": 553601470566637568
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 1,
+      "id": "cp-06",
+      "tid": 553830483780321280
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 1,
+      "id": "cp-07",
+      "tid": 553962851820658689
+    },
+    {
+      "EVENT DATE": "2015-01-??",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "cp-08",
+      "tid": 553961354458300416
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-03",
+      "SCORE": 1,
+      "id": "cp-09",
+      "tid": 562679269844066305
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-03",
+      "SCORE": 3,
+      "id": "cp-10",
+      "tid": 562705140311134208
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-03",
+      "SCORE": 1,
+      "id": "cp-11",
+      "tid": 562400839357431808
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 1,
+      "id": "cp-12",
+      "tid": 564847754380603393
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 1,
+      "id": "cp-13",
+      "tid": 564707991778099200
+    },
+    {
+      "EVENT DATE": "2015-02-09",
+      "PEAK DATE": "2015-02-09",
+      "SCORE": 3,
+      "id": "cp-14",
+      "tid": 564728128640397312
+    },
+    {
+      "EVENT DATE": "2015-02-11",
+      "PEAK DATE": "2015-02-11",
+      "SCORE": 1,
+      "id": "cp-15",
+      "tid": 565502401319550976
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-11",
+      "SCORE": 1,
+      "id": "cp-16",
+      "tid": 565548790334373889
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-11",
+      "SCORE": 1,
+      "id": "cp-17",
+      "tid": 565421719712968704
+    },
+    {
+      "EVENT DATE": "2015-02-27",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 1,
+      "id": "cp-18",
+      "tid": 571134303024721920
+    },
+    {
+      "EVENT DATE": "2015-02-??",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 1,
+      "id": "cp-19",
+      "tid": 571263932180013056
+    },
+    {
+      "EVENT DATE": "2015-02-27",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 1,
+      "id": "cp-20",
+      "tid": 571441405769482240
+    },
+    {
+      "EVENT DATE": "2015-03-??",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 1,
+      "id": "cp-21",
+      "tid": 582074851411640320
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 1,
+      "id": "cp-22",
+      "tid": 582096720504340480
+    },
+    {
+      "EVENT DATE": "2015-03-29",
+      "PEAK DATE": "2015-03-29",
+      "SCORE": 1,
+      "id": "cp-23",
+      "tid": 582045537429409793
+    },
+    {
+      "EVENT DATE": "2015-04-28",
+      "PEAK DATE": "2015-04-28",
+      "SCORE": 3,
+      "id": "cp-24",
+      "tid": 593160510121480192
+    },
+    {
+      "EVENT DATE": "2015-04-28",
+      "PEAK DATE": "2015-04-28",
+      "SCORE": 3,
+      "id": "cp-25",
+      "tid": 593104151267028992
+    },
+    {
+      "EVENT DATE": "2015-04-28",
+      "PEAK DATE": "2015-04-28",
+      "SCORE": 1,
+      "id": "cp-26",
+      "tid": 593020244228067328
+    }
+  ],
+  "MilitiaTerrorAct": [
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-02",
+      "SCORE": 1,
+      "id": "mt-01",
+      "tid": 550984258446061568
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-02",
+      "SCORE": 3,
+      "id": "mt-02",
+      "tid": 551024620220858368
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-02",
+      "SCORE": 3,
+      "id": "mt-03",
+      "tid": 551105746448814080
+    },
+    {
+      "EVENT DATE": "2014-12-30",
+      "PEAK DATE": "2015-01-02",
+      "SCORE": 3,
+      "id": "mt-05",
+      "tid": 551023525503303681
+    },
+    {
+      "EVENT DATE": "2014-??-??",
+      "PEAK DATE": "2015-01-02",
+      "SCORE": 1,
+      "id": "mt-06",
+      "tid": 550888615707168768
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 1,
+      "id": "mt-01",
+      "tid": 551281563280093184
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "mt-03",
+      "tid": 551167675364540418
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 1,
+      "id": "mt-04",
+      "tid": 551327033725181952
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 1,
+      "id": "mt-07",
+      "tid": 551474681631367169
+    },
+    {
+      "EVENT DATE": "2014-12-31",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 1,
+      "id": "mt-08",
+      "tid": 551190010024558593
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-03",
+      "SCORE": 3,
+      "id": "mt-09",
+      "tid": 551453961757405184
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "mt-02",
+      "tid": 551677899859050497
+    },
+    {
+      "EVENT DATE": "2015-01-02",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "mt-03",
+      "tid": 551883341071278080
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 1,
+      "id": "mt-04",
+      "tid": 551751585370767360
+    },
+    {
+      "EVENT DATE": "2015-01-03",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 3,
+      "id": "mt-09",
+      "tid": 551709302600122368
+    },
+    {
+      "EVENT DATE": "2015-01-04",
+      "PEAK DATE": "2015-01-04",
+      "SCORE": 2,
+      "id": "mt-10",
+      "tid": 551802189648527361
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "mt-11",
+      "tid": 552919652905799680
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-07",
+      "SCORE": 3,
+      "id": "mt-12",
+      "tid": 552706364162600960
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 3,
+      "id": "mt-11",
+      "tid": 553317746893541376
+    },
+    {
+      "EVENT DATE": "2015-01-07",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 3,
+      "id": "mt-12",
+      "tid": 553143842665295873
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 3,
+      "id": "mt-13",
+      "tid": 553246678602354689
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 3,
+      "id": "mt-14",
+      "tid": 553137718968852482
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 3,
+      "id": "mt-15",
+      "tid": 553329608385261568
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-08",
+      "SCORE": 2,
+      "id": "mt-16",
+      "tid": 553154848527777792
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-09",
+      "SCORE": 3,
+      "id": "mt-14",
+      "tid": 553430410084892672
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-09",
+      "SCORE": 3,
+      "id": "mt-15",
+      "tid": 553634882417471489
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-09",
+      "SCORE": 3,
+      "id": "mt-17",
+      "tid": 553626871284236288
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-17",
+      "tid": 553704222621847553
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-18",
+      "tid": 554064253313748993
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-19",
+      "tid": 553932359205019651
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-20",
+      "tid": 553801169773297664
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-21",
+      "tid": 553944182947979264
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-22",
+      "tid": 554056397370163203
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-10",
+      "SCORE": 3,
+      "id": "mt-23",
+      "tid": 553877053125439489
+    },
+    {
+      "EVENT DATE": "2015-01-08",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "mt-15",
+      "tid": 554227650815082497
+    },
+    {
+      "EVENT DATE": "2015-01-09",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "mt-17",
+      "tid": 554389316068073474
+    },
+    {
+      "EVENT DATE": "2015-01-10",
+      "PEAK DATE": "2015-01-11",
+      "SCORE": 3,
+      "id": "mt-18",
+      "tid": 554073543671967744
+    },
+    {
+      "EVENT DATE": "2015-02-01",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 2,
+      "id": "mt-24",
+      "tid": 562167409574809600
+    },
+    {
+      "EVENT DATE": "2015-02-02",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 3,
+      "id": "mt-25",
+      "tid": 562315854348435457
+    },
+    {
+      "EVENT DATE": "2015-02-01",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 3,
+      "id": "mt-26",
+      "tid": 562044768092295168
+    },
+    {
+      "EVENT DATE": "2015-02-02",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 3,
+      "id": "mt-27",
+      "tid": 562227765592596481
+    },
+    {
+      "EVENT DATE": "2015-02-02",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 3,
+      "id": "mt-28",
+      "tid": 562357478625931264
+    },
+    {
+      "EVENT DATE": "2013-??-??",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 2,
+      "id": "mt-29",
+      "tid": 562378701833531392
+    },
+    {
+      "EVENT DATE": "2015-02-02",
+      "PEAK DATE": "2015-02-02",
+      "SCORE": 3,
+      "id": "mt-30",
+      "tid": 562330307932585985
+    },
+    {
+      "EVENT DATE": "2015-02-27",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 3,
+      "id": "mt-31",
+      "tid": 571310379919286273
+    },
+    {
+      "EVENT DATE": "2015-02-27",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 3,
+      "id": "mt-32",
+      "tid": 571301081139027968
+    },
+    {
+      "EVENT DATE": "2015-02-26",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 3,
+      "id": "mt-33",
+      "tid": 571204331128508416
+    },
+    {
+      "EVENT DATE": "2015-02-26",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 3,
+      "id": "mt-34",
+      "tid": 571326037243662336
+    },
+    {
+      "EVENT DATE": "2015-02-27",
+      "PEAK DATE": "2015-02-27",
+      "SCORE": 3,
+      "id": "mt-35",
+      "tid": 571375152564457472
+    },
+    {
+      "EVENT DATE": "2015-05-31",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 2,
+      "id": "mt-36",
+      "tid": 611481263543832576
+    },
+    {
+      "EVENT DATE": "2015-06-17",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 3,
+      "id": "mt-37",
+      "tid": 611490029643374592
+    },
+    {
+      "EVENT DATE": "2015-06-18",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 2,
+      "id": "mt-38",
+      "tid": 611544798865043456
+    },
+    {
+      "EVENT DATE": "2015-06-18",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 3,
+      "id": "mt-39",
+      "tid": 611532589275320320
+    },
+    {
+      "EVENT DATE": "2015-06-18",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 3,
+      "id": "mt-40",
+      "tid": 611410262382481408
+    },
+    {
+      "EVENT DATE": "2015-06-18",
+      "PEAK DATE": "2015-06-18",
+      "SCORE": 3,
+      "id": "mt-41",
+      "tid": 611515350656548864
+    }
+  ],
+  "Unrest": [
+    {
+      "EVENT DATE": "USA: Socia",
+      "PEAK DATE": "2015-01-17",
+      "SCORE": 3,
+      "id": "ur-01",
+      "tid": 556470647128215554
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-04-27",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 592794984937594880
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-04-28",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 592928749655470080
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-04-29",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 593477456901844992
+    },
+    {
+      "EVENT DATE": "2015-04 Ma",
+      "PEAK DATE": "2015-04-29",
+      "SCORE": 1,
+      "id": "ur-03",
+      "tid": 593353250977370112
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-04-29",
+      "SCORE": 3,
+      "id": "ur-04",
+      "tid": 593265061558288384
+    },
+    {
+      "EVENT DATE": "2015-04 Ir",
+      "PEAK DATE": "2015-04-29",
+      "SCORE": 3,
+      "id": "ur-05",
+      "tid": 593374885189132288
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-04-30",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 593897902310858752
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-05-01",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 594194351552618496
+    },
+    {
+      "EVENT DATE": "2015-04 Bu",
+      "PEAK DATE": "2015-05-01",
+      "SCORE": 3,
+      "id": "ur-06",
+      "tid": 594016177522745344
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-05-02",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 594621327492960257
+    },
+    {
+      "EVENT DATE": "2015-05 Tu",
+      "PEAK DATE": "2015-05-02",
+      "SCORE": 3,
+      "id": "ur-07",
+      "tid": 594455853811372032
+    },
+    {
+      "EVENT DATE": "2015-04 US",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "ur-02",
+      "tid": 597183149659918337
+    },
+    {
+      "EVENT DATE": "2015-02 Ru",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "ur-08",
+      "tid": 596962894186680320
+    },
+    {
+      "EVENT DATE": "2015-05 UK",
+      "PEAK DATE": "2015-05-09",
+      "SCORE": 3,
+      "id": "ur-09",
+      "tid": 597130175579607041
+    }
+  ]
+}
